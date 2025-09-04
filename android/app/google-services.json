@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "907942851282",
+    "project_id": "bmi-cal-50def",
+    "storage_bucket": "bmi-cal-50def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907942851282:android:968f7bce8060fd6b02730b",
+        "android_client_info": {
+          "package_name": "com.bmi.cal.bmi_cal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907942851282-455gnmc3bn72i6mjbuppllrifbotm0gb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmi.cal.bmi_cal",
+            "certificate_hash": "ae2f45538fc87b12bb540a2e3667128e98b5b610"
+          }
+        },
+        {
+          "client_id": "907942851282-i58fhq4u5255fptgsoj6lcl719novfsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV57iGBMVGmBuMpolVS080KAzPXO20buI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907942851282-i58fhq4u5255fptgsoj6lcl719novfsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907942851282-st8n311f98rev89tc1eqp9lca74cs9di.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bmi.cal.bmiCal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

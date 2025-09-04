@@ -1,2 +1,16 @@
-# BMI-Cal-App
-A simple and user friendly BMI Calculator app that not only helps you calculate your Body Mass Index instantly but also allows you to save your results along with the date. This way, you can easily track and remember your BMI history for future reference.
+# bmical
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
